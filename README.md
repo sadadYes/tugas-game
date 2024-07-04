@@ -1,6 +1,6 @@
 # Tugas Game
 
-Tugas game proglan.
+Tugas game proglan. (belum selesai)
 
 ## Demo
 
